@@ -6,3 +6,6 @@ to
 card-body 
 to
 card-content
+
+
+vendor\brackets\admin-generator\resources\views\create.blade.php
