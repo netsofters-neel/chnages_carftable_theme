@@ -21,6 +21,11 @@ to
 ti-align-justify
 
 
+<th></th>
+to
+<th is='sortable' :column="'actions'">{{'{{'}} trans('Actions') }}</th>
+
+
 
 
   <td>
