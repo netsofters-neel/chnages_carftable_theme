@@ -25,6 +25,9 @@ ti-align-justify
 to
 <th is='sortable' :column="'actions'">{{'{{'}} trans('Actions') }}</th>
 
+<div class="row" v-if="pagination.state.total > 0">
+to
+<div class="row pagination-margin" v-if="pagination.state.total > 0">
 
 
 
